@@ -43,8 +43,6 @@ flowchart LR
     Human --> CRM
 ```
 
-> **Note:** The correct term is **RAG**, not LAG. RAG means *Retrieval-Augmented Generation*: the AI finds relevant information in the company’s approved data before answering.
-
 ## Simple Client Explanation
 
 The system works like a virtual sales representative:
